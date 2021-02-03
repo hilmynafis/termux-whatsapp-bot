@@ -7,7 +7,7 @@ CFonts.say('WHATSAPP BOT', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'termux-whatsapp-bot\' By @NazwaS', {
+CFonts.say('\'Hlmy Bot\' By Hlmy Nfs', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
